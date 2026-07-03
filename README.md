@@ -60,15 +60,5 @@ End-to-end ML pipeline (preprocessing → inference → interactive UI) achievin
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallikantiPavan&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallikantiPavan" height="165"/>
-</p>
-
----
 
 <p align="center"><i>Open to internships, research collaborations, and AI/ML roles where I can apply my skills to impactful, real-world problems.</i></p>
